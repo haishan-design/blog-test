@@ -10,6 +10,8 @@
 3. 可迭代
 4. 功能性
 5. 通用性
+6. 易用性
+7. 积极情绪
 
 我平时浏览的设计网站
 * 品牌形象集合 [brandidentity](https://the-brandidentity.com/#feed)
